@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userbase>
+    <user>
+        <login>1</login>
+        <password>1</password>
+    </user>
+    <user>
+        <login>2</login>
+        <password>2</password>
+    </user>
+    <user>
+        <login>3</login>
+        <password>3</password>
+    </user>
+    <user>
+        <login>4</login>
+        <password>4</password>
+    </user>
+    <user>
+        <login>5</login>
+        <password>5</password>
+    </user>
+</userbase>
